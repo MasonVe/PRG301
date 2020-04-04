@@ -1,0 +1,12 @@
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.exe
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.deps.json
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.runtimeconfig.json
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.dll
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\bin\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.pdb
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.AssemblyInfo.cs
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.dll
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.pdb
+C:\Users\Mason\source\repos\NestedRepetition-Ex2.4\NestedRepetition-Ex2.4\obj\Debug\netcoreapp3.1\NestedRepetition-Ex2.4.genruntimeconfig.cache
