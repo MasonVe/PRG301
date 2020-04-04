@@ -1,0 +1,11 @@
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.exe
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.deps.json
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.runtimeconfig.json
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.runtimeconfig.dev.json
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.dll
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\bin\Debug\netcoreapp3.1\Programming.pdb
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\obj\Debug\netcoreapp3.1\Programming.csprojAssemblyReference.cache
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\obj\Debug\netcoreapp3.1\Programming.AssemblyInfoInputs.cache
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\obj\Debug\netcoreapp3.1\Programming.AssemblyInfo.cs
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\obj\Debug\netcoreapp3.1\Programming.dll
+C:\Users\Mason\Documents\Certificate IV in Information Technology\Programming\obj\Debug\netcoreapp3.1\Programming.pdb
