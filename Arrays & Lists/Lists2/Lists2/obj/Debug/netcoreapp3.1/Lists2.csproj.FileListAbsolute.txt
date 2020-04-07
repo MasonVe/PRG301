@@ -1,0 +1,13 @@
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.exe
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.deps.json
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.runtimeconfig.json
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.dll
+C:\Users\Mason\source\repos\Lists2\Lists2\bin\Debug\netcoreapp3.1\Lists2.pdb
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.csprojAssemblyReference.cache
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.AssemblyInfo.cs
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.dll
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.pdb
+C:\Users\Mason\source\repos\Lists2\Lists2\obj\Debug\netcoreapp3.1\Lists2.genruntimeconfig.cache
