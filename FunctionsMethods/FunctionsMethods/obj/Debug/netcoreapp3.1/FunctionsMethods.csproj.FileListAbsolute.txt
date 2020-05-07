@@ -1,0 +1,13 @@
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.exe
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.deps.json
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.runtimeconfig.json
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.dll
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\bin\Debug\netcoreapp3.1\FunctionsMethods.pdb
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.csprojAssemblyReference.cache
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.AssemblyInfo.cs
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.dll
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.pdb
+C:\Users\Mason\source\repos\FunctionsMethods\FunctionsMethods\obj\Debug\netcoreapp3.1\FunctionsMethods.genruntimeconfig.cache
