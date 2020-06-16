@@ -1,0 +1,13 @@
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.exe
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.deps.json
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.json
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.dll
+C:\Users\Mason\source\repos\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.pdb
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfo.cs
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.dll
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.pdb
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.genruntimeconfig.cache
+C:\Users\Mason\source\repos\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.csprojAssemblyReference.cache
