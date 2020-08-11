@@ -34,7 +34,7 @@ namespace Bingo
                 else
                 {
                     Console.Clear();
-                    Console.WriteLine("Selection can only be a number shown on the menu!");
+                    Console.WriteLine("Selection can only be a number!");
                     Console.WriteLine("-------------------------------------------------");
                     Start();
                 }
