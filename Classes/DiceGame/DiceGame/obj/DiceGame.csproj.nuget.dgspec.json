@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mason\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj": {}
+    "C:\\Users\\Mason\\Documents\\Certificate IV in Information Technology\\Programming (301)\\GitRepo\\PRG301\\Classes\\DiceGame\\DiceGame\\DiceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mason\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj": {
+    "C:\\Users\\Mason\\Documents\\Certificate IV in Information Technology\\Programming (301)\\GitRepo\\PRG301\\Classes\\DiceGame\\DiceGame\\DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mason\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj",
+        "projectUniqueName": "C:\\Users\\Mason\\Documents\\Certificate IV in Information Technology\\Programming (301)\\GitRepo\\PRG301\\Classes\\DiceGame\\DiceGame\\DiceGame.csproj",
         "projectName": "DiceGame",
-        "projectPath": "C:\\Users\\Mason\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj",
+        "projectPath": "C:\\Users\\Mason\\Documents\\Certificate IV in Information Technology\\Programming (301)\\GitRepo\\PRG301\\Classes\\DiceGame\\DiceGame\\DiceGame.csproj",
         "packagesPath": "C:\\Users\\Mason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mason\\source\\repos\\DiceGame\\DiceGame\\obj\\",
+        "outputPath": "C:\\Users\\Mason\\Documents\\Certificate IV in Information Technology\\Programming (301)\\GitRepo\\PRG301\\Classes\\DiceGame\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mason\\AppData\\Roaming\\NuGet\\NuGet.Config",
